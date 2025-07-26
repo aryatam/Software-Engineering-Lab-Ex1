@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.c51d5f68.css",
-    "main.js": "/static/js/main.81293277.js",
-    "index.html": "/index.html",
-    "main.c51d5f68.css.map": "/static/css/main.c51d5f68.css.map",
-    "main.81293277.js.map": "/static/js/main.81293277.js.map"
+    "main.css": "/Software-Engineering-Lab-Ex1/static/css/main.c51d5f68.css",
+    "main.js": "/Software-Engineering-Lab-Ex1/static/js/main.81293277.js",
+    "index.html": "/Software-Engineering-Lab-Ex1/index.html",
+    "main.c51d5f68.css.map": "/Software-Engineering-Lab-Ex1/static/css/main.c51d5f68.css.map",
+    "main.81293277.js.map": "/Software-Engineering-Lab-Ex1/static/js/main.81293277.js.map"
   },
   "entrypoints": [
     "static/css/main.c51d5f68.css",
