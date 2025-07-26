@@ -7,6 +7,5 @@ build/
 /.idea
 *.iml
 
-# GitHub Actions cache (اختیاری)
 /.github/workflows/*.cache
 EOF
