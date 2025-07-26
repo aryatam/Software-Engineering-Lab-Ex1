@@ -1,6 +1,6 @@
 // src/App.js
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import HomePage from './pages/HomePage';
@@ -11,7 +11,7 @@ import './App.css';
 
 function App() {
     return (
-        <BrowserRouter>
+        <HashRouter>
             <Header title="Simple React App" />
             <main>
                 <Routes>
@@ -21,7 +21,7 @@ function App() {
                 </Routes>
             </main>
             <Footer />
-        </BrowserRouter>
+        </HashRouter>
     );
 }
 
