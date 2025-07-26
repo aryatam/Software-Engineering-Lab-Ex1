@@ -1,7 +1,13 @@
-/* src/App.css */
 .app-header {
     background: #20232a;
     padding: 1rem;
     color: #61dafb;
     text-align: center;
+}
+.app-footer {
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+  background: #f7f7f7;
+  color: #333;
 }
